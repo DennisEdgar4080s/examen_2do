@@ -11,7 +11,7 @@ body {
 }
 
 .container {
-    width: 60%; /* Ajuste del ancho para hacerlo más compacto */
+    width: 60%; 
     margin: 0 auto;
 }
 
@@ -20,7 +20,6 @@ h1, h2 {
     color: #333;
 }
 
-/* Estilo del recuadro de nombre y carnet */
 .header-box {
     width: 100%;
     background-color: #fff;
@@ -111,31 +110,31 @@ a:hover {
     text-decoration: underline;
 }
 
-/* Estilo del recuadro de nombre y carnet */
+
 .header-box {
-    width: 50%; /* Ajuste del ancho para hacerlo más compacto */
-    background-color: #f9f9f9; /* Fondo más claro */
-    border: 2px solid #007bff; /* Borde con color azul */
-    padding: 20px; /* Más espacio interno */
+    width: 50%; 
+    background-color: #f9f9f9; 
+    border: 2px solid #007bff; 
+    padding: 20px; 
     text-align: center;
-    margin: 20px auto; /* Centrado en la página */
-    border-radius: 10px; /* Bordes redondeados */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    margin: 20px auto; 
+    border-radius: 10px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
     color: #333;
 }
 
 .header-box h3 {
-    font-size: 24px; /* Tamaño de fuente más grande */
-    color: #007bff; /* Color azul para resaltar */
+    font-size: 24px; 
+    color: #007bff; 
     font-weight: bold;
     margin-bottom: 10px;
-    text-transform: uppercase; /* Texto en mayúsculas */
+    text-transform: uppercase; 
 }
 
 .header-box p {
-    font-size: 16px; /* Tamaño de fuente más grande */
+    font-size: 16px; 
     color: #555;
     margin: 6px 0;
-    font-style: italic; /* Texto en cursiva */
+    font-style: italic; 
 }
 
